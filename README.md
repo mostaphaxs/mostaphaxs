@@ -1,4 +1,4 @@
-# 💫 **MUSTAPHA FAROUSS** | FULL STACK ARCHITECT
+# 💫 **MUSTAPHA FAROUSS** | FULL STACK DEVOLOPER
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=1000&lines=%F0%9F%92%A1+TURNING+IDEAS+INTO+DIGITAL+EXPERIENCES;%E2%9A%99%EF%B8%8F+CRAFTING+SCALABLE+ARCHITECTURES;%F0%9F%94%A8+AUTOMATING+BUSINESS+WORKFLOWS;%F0%9F%93%88+BUILDING+THE+FUTURE+OF+WEB" alt="Typing SVG" />
